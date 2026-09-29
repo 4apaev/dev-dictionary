@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "../",
+            "name": "📇 notes" // 📒 📑 🗒️ 🔖
+        }
+    ],
+
+    "settings": {
+        "files.exclude": { ".git": true }
+    },
+}
+
