@@ -1,0 +1,28 @@
+[
+	{
+		"id": "preferences",
+		"children": [
+			{
+				"id": "package-settings",
+				"children": [
+					{
+						"caption": "DevDictionary",
+						"children": [
+							{
+								"caption": "Settings",
+								"command": "edit_settings",
+								"args": {
+									"base_file": "${packages}/DevDictionary/DevDictionary.sublime-settings",
+									"default": "{\n\t$0\n}\n",
+								},
+							},
+							{ "caption": "My Words", "command": "dev_dictionary_edit_words" },
+							{ "caption": "-" },
+							{ "caption": "README", "command": "open_file", "args": { "file": "${packages}/DevDictionary/README.md" } },
+						],
+					},
+				],
+			},
+		],
+	},
+]

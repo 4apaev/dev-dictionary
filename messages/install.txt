@@ -1,0 +1,20 @@
+DevDictionary
+=============
+
+DevDictionary adds a spell check dictionary for developers.
+It knows chat words (btw, rn, idk), code terms, keywords,
+file extensions, and product names.
+
+The plugin adds its dictionary to the "dictionary" setting.
+Spell check uses it at once.
+
+Add your own words:
+
+1. Open the Command Palette.
+2. Run "DevDictionary: Edit My Words".
+3. Write one word on each line, then save the file.
+4. Restart Sublime Text to load the new words.
+
+On macOS, all Mac apps accept the same words.
+
+Settings: Preferences > Package Settings > DevDictionary

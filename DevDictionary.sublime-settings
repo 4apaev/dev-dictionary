@@ -1,0 +1,14 @@
+{
+	// Built-in word lists in DevDictionary/words/. Remove a name to skip that list.
+	// Your own lists: every *.txt file in Packages/User/DevDictionary/.
+	"builtin_lists": ["chat", "dev", "extensions", "keywords", "names", "shell"],
+
+	// macOS only. Teach the words to the macOS spell checker, so that all
+	// Mac apps accept them. Sublime Text "added_words" go there too.
+	// Set to false to remove these words from macOS again.
+	"macos_sync": true,
+
+	// macOS only. Add the words that you learned in other Mac apps
+	// to the Sublime Text dictionary.
+	"macos_import": true,
+}

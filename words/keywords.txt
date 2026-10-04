@@ -1,0 +1,43 @@
+# Language keywords, built-ins, types.
+
+# JavaScript / TypeScript
+bigint
+eval
+infer
+instanceof
+keyof
+nan
+satisfies
+typeof
+unref
+
+# Python
+elif
+isinstance
+len
+nonlocal
+str
+
+# C / C++ / C#
+constexpr
+endif
+ifdef
+ifndef
+nullptr
+printf
+sizeof
+typedef
+typename
+
+# Rust / Go
+chan
+fn
+goroutine/S
+impl
+mut
+println
+usize
+isize
+
+# shared
+uint
